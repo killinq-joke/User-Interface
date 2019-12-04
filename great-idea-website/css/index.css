@@ -64,3 +64,91 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+body{
+	padding:200px;
+}
+
+
+a {
+display:inline-block;
+color:gray;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-decoration:none;
+margin:30px 35px;
+}
+
+img {
+	display:inline;
+}
+
+div{
+	width:49%;
+	display:inline-block;
+	text-align:center;
+	font-size:100px;
+	
+}
+
+button{
+	border:1px solid black;
+	padding:10px 50px;
+	margin-bottom: 40%;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	background-color:white;
+}
+
+h2{
+	text-align:left;
+}
+
+.p1,.p2{
+	display:inline-block;
+	width:49%;
+}
+
+.p3,.p4,.p5{
+	display:inline-block;
+	width:33%;
+}
+
+
+.top-content{
+display:inline-block;
+width:49%;
+height:center;
+margin:20px 0 0 0;
+}
+
+.top-section{
+	padding:20px;
+	border: 1px solid white;
+	border-top-color:  black;
+}
+
+
+
+.middle-img{
+	width:100%;
+	display:block;
+}
+
+ul{
+	line-height: 30px;
+}
+
+footer{
+	text-align:center;
+	padding:50px 0 100px;
+	
+}
+
+.sec-section{
+	padding:20px;
+	border: 1px solid white;
+	border-bottom-color: black;
+}
+
+.contact{
+	padding:20px;
+}
